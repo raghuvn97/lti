@@ -10,4 +10,4 @@ git add filename
 git diff
 git commit -a -m "message'
 git remote add remote (repo url)
-
+git push (remotename) branch name (master)
