@@ -1,0 +1,10 @@
+configure the username and emailid 
+
+---------------------------------
+git --version
+git config --global user.name "raghu"
+git config --global user.email "raghuvn97@gmail.com"
+git init
+git status
+git add filename
+git diff
