@@ -11,3 +11,4 @@ git diff
 git commit -a -m "message'
 git remote add remote (repo url)
 git push (remotename) branch name (master)
+git pull url of repo
