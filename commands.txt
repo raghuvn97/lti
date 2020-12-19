@@ -13,5 +13,5 @@ git remote add remote (repo url)
 git push (remotename) branch name (master)
 git pull url of repo
 git branch branch name
-git stash (to stash the changes in file)
+git stash (to stash the changes in file these include various commands)
 git merge branch_name
